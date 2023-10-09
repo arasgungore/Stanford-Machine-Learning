@@ -6,7 +6,7 @@ My solutions to the assignments in Course 1 of the Machine Learning Specializati
 
 ## Overview
 
-[Week 1: Sentiment Analysis with Logistic Regression](IntroductionMachineLearning)
+[Week 1: Introduction to Machine Learning](IntroductionMachineLearning)
 
 [Week 2: Regression with Multiple Input Variables](Regression)
 
