@@ -1,6 +1,6 @@
 # Course 2: Advanced Learning Algorithms
 
-My solutions to the assignments in Course 1 of the Machine Learning Specialization offered by Stanford University on Coursera.
+My solutions to the assignments in Course 2 of the Machine Learning Specialization offered by Stanford University on Coursera.
 
 
 
