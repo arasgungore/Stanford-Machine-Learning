@@ -1,4 +1,4 @@
-# stanford-machine-learning
+# Stanford-Machine-Learning
 
 My solutions to the assignments in the Machine Learning Specialization offered by Stanford University on Coursera.
 
